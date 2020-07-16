@@ -1,9 +1,14 @@
+body {
+  background-color: gray;
+}
+
 #home {
   height: 500px;
   width: 900px;
   margin: auto;
   padding-top: 20px;
   display: flex;
+  background-color: white;
 }
 
 #videoHome {
@@ -41,9 +46,14 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  background-color: #edeff0;
 }
 
 video {
   width: 100%;
+}
+
+button.link {
+  background: none;
+  border: none;
 }
