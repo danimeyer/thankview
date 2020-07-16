@@ -32,7 +32,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/4.jpg',
   },
   {
-    title: 'Video  Intro Themes',
+    title: 'Video Intro Themes',
     minutes: 0,
     seconds: 36,
     url:
@@ -40,7 +40,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/5.jpg',
   },
   {
-    title: 'Video  Webcam, Upload, Library',
+    title: 'Video Webcam, Upload, Library',
     minutes: 0,
     seconds: 41,
     url:
@@ -48,7 +48,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/6.jpg',
   },
   {
-    title: 'Video  Thumbnail & Trim Video',
+    title: 'Video Thumbnail & Trim Video',
     minutes: 0,
     seconds: 13,
     url:
@@ -56,7 +56,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/7.jpg',
   },
   {
-    title: 'Video  Add-On Video',
+    title: 'Video Add-On Video',
     minutes: 0,
     seconds: 28,
     url:
@@ -64,14 +64,14 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/8.jpg',
   },
   {
-    title: 'Send  Sending Tests, Send Now, Scheduling',
+    title: 'Send Sending Tests, Send Now, Scheduling',
     minutes: 0,
     seconds: 30,
     url: 'https://assets.thankview.com/assets/videos/walkthrough/9_Send.mp4',
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/9.jpg',
   },
   {
-    title: "Contacts  Filtering Down CSV's",
+    title: "Contacts Filtering Down CSV's",
     minutes: 0,
     seconds: 30,
     url:
@@ -79,14 +79,14 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/10.jpg',
   },
   {
-    title: 'Lists  Creating Lists, Adding Recipients to a List',
+    title: 'Lists Creating Lists, Adding Recipients to a List',
     minutes: 0,
     seconds: 17,
     url: 'https://assets.thankview.com/assets/videos/walkthrough/11_Lists.mp4',
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/11.jpg',
   },
   {
-    title: 'Video Library  Saving a Video, Adding a Video, etc...',
+    title: 'Video Library Saving a Video, Adding a Video, etc...',
     minutes: 0,
     seconds: 39,
     url:
@@ -94,7 +94,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/12.jpg',
   },
   {
-    title: 'Metrics  Use Data to Improve Your Campaigns',
+    title: 'Metrics Use Data to Improve Your Campaigns',
     minutes: 0,
     seconds: 34,
     url:
@@ -102,7 +102,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/13.jpg',
   },
   {
-    title: "Spam Rate & Today's Sends  Notification Banners",
+    title: "Spam Rate & Today's Sends Notification Banners",
     minutes: 0,
     seconds: 16,
     url:
@@ -110,7 +110,7 @@ export default [
     thumb: 'https://assets.thankview.com/assets/videos/thumbnails/14.jpg',
   },
   {
-    title: 'Manage Users  Add Users, Manage Group Roles',
+    title: 'Manage Users Add Users, Manage Group Roles',
     minutes: 0,
     seconds: 16,
     url:
